@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-practice/static/js/main.bd48f690.chunk.js",
-    "main.js.map": "/react-practice/static/js/main.bd48f690.chunk.js.map",
-    "runtime-main.js": "/react-practice/static/js/runtime-main.b085377e.js",
-    "runtime-main.js.map": "/react-practice/static/js/runtime-main.b085377e.js.map",
-    "static/js/2.e7a4cbde.chunk.js": "/react-practice/static/js/2.e7a4cbde.chunk.js",
-    "static/js/2.e7a4cbde.chunk.js.map": "/react-practice/static/js/2.e7a4cbde.chunk.js.map",
-    "index.html": "/react-practice/index.html",
-    "precache-manifest.378991f37c76384a3a8923610126835d.js": "/react-practice/precache-manifest.378991f37c76384a3a8923610126835d.js",
-    "service-worker.js": "/react-practice/service-worker.js"
+    "main.js": "/google-keep-replica/static/js/main.bd48f690.chunk.js",
+    "main.js.map": "/google-keep-replica/static/js/main.bd48f690.chunk.js.map",
+    "runtime-main.js": "/google-keep-replica/static/js/runtime-main.47c3ffba.js",
+    "runtime-main.js.map": "/google-keep-replica/static/js/runtime-main.47c3ffba.js.map",
+    "static/js/2.e7a4cbde.chunk.js": "/google-keep-replica/static/js/2.e7a4cbde.chunk.js",
+    "static/js/2.e7a4cbde.chunk.js.map": "/google-keep-replica/static/js/2.e7a4cbde.chunk.js.map",
+    "index.html": "/google-keep-replica/index.html",
+    "precache-manifest.12a46d9880058a7ef602b7e946b95d6a.js": "/google-keep-replica/precache-manifest.12a46d9880058a7ef602b7e946b95d6a.js",
+    "service-worker.js": "/google-keep-replica/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.b085377e.js",
+    "static/js/runtime-main.47c3ffba.js",
     "static/js/2.e7a4cbde.chunk.js",
     "static/js/main.bd48f690.chunk.js"
   ]
